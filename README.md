@@ -45,3 +45,10 @@ This leads to:
 ---
 
 ## 📂 Project Structure
+pallet-detection/
+│-- notebooks/ # Jupyter notebooks for EDA & training
+│-- src/ # Python scripts for preprocessing & inference
+│-- outputs/ # Screenshots, sample results
+│-- app.py # Streamlit app for deployment
+│-- requirements.txt # Dependencies
+│-- README.md # Project documentation
